@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="PortalValidation">
+	<test thread-count="9" name="SmockScenario">
+		<classes>
+			<class name="testcases.TC001VerifyHomePageTest" />
+			<class name="testcases.TC002VerifyLoginPageTest" />
+			
+			<class name="testcases.TC004VerifyNagativeChangePasswoardTest" />
+			<class name="testcases.TC005VerifyLogoutTest" />
+			<class name="testcases.TC006VerifyTwenty_UserCreationTest" />
+			<class name="testcases.TC006VerifyTwenty_UserCreationTest" />
+			<class name="testcases.TC007VerifyForceLogoutTest" />
+		</classes>
+	</test> <!-- SmockScenario -->
+</suite> <!-- PortalValidation -->
+ 

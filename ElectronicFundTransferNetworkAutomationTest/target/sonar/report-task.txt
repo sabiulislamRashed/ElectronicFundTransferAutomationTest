@@ -1,0 +1,6 @@
+projectKey=ElectronicFundTransferNetworkAutomationTest:ElectronicFundTransferNetworkAutomationTest
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/ElectronicFundTransferNetworkAutomationTest:ElectronicFundTransferNetworkAutomationTest
+ceTaskId=AWLSPWrrKOQ8k55IWbNa
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWLSPWrrKOQ8k55IWbNa
